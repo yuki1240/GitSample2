@@ -1,0 +1,14 @@
+aa
+
+issue1
+
+issue4　　　い
+
+
+<<<<<<<<< Temporary merge branch 1
+u
+=========
+e issue3 aaaaa
+
+リリース　v0.0.1
+>>>>>>>>> Temporary merge branch 2
